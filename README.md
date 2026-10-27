@@ -84,8 +84,6 @@ O Coeficiente de Correlação de Pearson ($r$) calculado entre o número de pág
 
 $$r \approx 0.15$$
 
-*(Atualize com o valor numérico exato gerado no Pandas com `df['num_pages'].corr(df['average_rating'])`).*
-
 Em bases comportamentais de grande volume, um coeficiente positivo entre **0.10 e 0.25** confirma uma **correlação positiva fraca a moderada**, validando quantitativamente a tendência ascendente identificada nos gráficos.
 
 ---
