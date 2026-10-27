@@ -104,4 +104,4 @@ Em bases comportamentais de grande volume, um coeficiente positivo entre **0.10 
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/o-mito-do-tijolaco.git](https://github.com/seu-usuario/o-mito-do-tijolaco.git)
+   git clone [https://github.com/andradisa/o-mito-do-tijolaco.git](https://github.com/andradisa/o-mito-do-tijolaco.git)
