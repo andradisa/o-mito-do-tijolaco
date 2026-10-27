@@ -96,7 +96,7 @@ Em bases comportamentais de grande volume, um coeficiente positivo entre **0.10 
 
 ---
 
-## 🚀 Como Executar o Projeto
+## Como Executar o Projeto
 
 1. Clone este repositório:
    ```bash
