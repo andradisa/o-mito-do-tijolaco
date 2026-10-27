@@ -52,12 +52,10 @@ Para garantir a qualidade da análise, a base original passou pelo seguinte flux
 
 | Faixa de Páginas | Total de Livros | Nota Média | Mediana de Avaliações | Média de Avaliações |
 | :--- | :---: | :---: | :---: | :---: |
-| **Curto (< 200p)** | *ex: 2.100* | **3.85** | *ex: 450* | *ex: 1.200* |
-| **Médio (200-400p)** | *ex: 5.400* | **3.93** | *ex: 620* | *ex: 1.850* |
-| **Longo (400-600p)** | *ex: 2.200* | **4.05** | *ex: 510* | *ex: 1.600* |
-| **Tijolaço (> 600p)** | *ex: 800* | **4.15** | *ex: 380* | *ex: 1.100* |
-
-*(Substitua os valores numéricos contados pelos resultados exatos gerados no seu script).*
+| **Curto (< 200p)** | *2.528* | **3.94** | *414* | *11.477* |
+| **Médio (200-400p)** | *4.874* | **3.90** | *1.220* | *19.759* |
+| **Longo (400-600p)** | *1.969* | **3.98** | *1.400* | *25.449* |
+| **Tijolaço (> 600p)** | *1.024* | **4.11** | *1.050* | *23.551* |
 
 ---
 
