@@ -1,10 +1,10 @@
-# 📚 O Mito do Tijolaço: Livros Longos são Melhores ou Apenas Mais Tolerados?
+# O Mito do Tijolaço: Livros Longos são Melhores ou Apenas Mais Tolerados?
 
 Análise exploratória e estatística de dados do catálogo do Goodreads para investigar a relação entre o tamanho da obra (número de páginas), a satisfação do leitor (nota média) e o volume de engajamento.
 
 ---
 
-## 📌 Sobre o Projeto
+## Sobre o Projeto
 
 O senso comum no mercado editorial sugere que livros volumosos ("tijolaços") enfrentam maior resistência do público. No entanto, surge a seguinte dúvida: **obras extensas recebem notas mais altas porque são genuinamente superiores, ou porque a barreira de entrada filtra leitores casuais, mantendo apenas fãs engajados?**
 
@@ -12,7 +12,7 @@ Este projeto analisa milhares de registros do dataset *Goodreads Books* utilizan
 
 ---
 
-## ❓ Perguntas Chave & Hipótese
+## Perguntas Chave & Hipótese
 
 1. **Percepção de Valor:** Livros com mais de 600 páginas possuem notas médias mais altas do que livros curtos (< 200 páginas)?
 2. **Engajamento & Barreira de Entrada:** O volume total de avaliações cai conforme o número de páginas aumenta?
@@ -22,7 +22,7 @@ Este projeto analisa milhares de registros do dataset *Goodreads Books* utilizan
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 * **Linguagem:** Python 3.x
 * **Manipulação de Dados:** Pandas
@@ -32,7 +32,7 @@ Este projeto analisa milhares de registros do dataset *Goodreads Books* utilizan
 
 ---
 
-## 📂 Tratamento de Dados (Data Cleaning)
+## Tratamento de Dados (Data Cleaning)
 
 Para garantir a qualidade da análise, a base original passou pelo seguinte fluxo de limpeza:
 
@@ -46,7 +46,7 @@ Para garantir a qualidade da análise, a base original passou pelo seguinte flux
 
 ---
 
-## 📊 Resultados e Métricas Principais
+## Resultados e Métricas Principais
 
 ### Tabela Resumo das Categoria
 
@@ -59,7 +59,7 @@ Para garantir a qualidade da análise, a base original passou pelo seguinte flux
 
 ---
 
-### 📈 Análise Visual
+### Análise Visual
 
 #### 1. Painel Comparativo: Nota Média vs. Volume de Avaliações
 <img width="4750" height="1449" alt="mito_do_tijolaco_painel" src="https://github.com/user-attachments/assets/eb856358-9e4a-4020-bb47-30bee2ca4397" />
@@ -78,7 +78,7 @@ Para garantir a qualidade da análise, a base original passou pelo seguinte flux
 
 ---
 
-## 📐 Validação Estatística
+## Validação Estatística
 
 O Coeficiente de Correlação de Pearson ($r$) calculado entre o número de páginas e a nota média resultou em:
 
@@ -88,7 +88,7 @@ Em bases comportamentais de grande volume, um coeficiente positivo entre **0.10 
 
 ---
 
-## 💡 Conclusão de Negócio
+## Conclusão de Negócio
 
 1. **O "Mito" foi Desmistificado:** Livros longos não recebem punição dos leitores por seu tamanho; pelo contrário, possuem médias de avaliação superiores.
 2. **Efeito Filtro:** O volume reduzido de leitores em livros extensos atua como um filtro natural. Apenas leitores altamente alinhados com o tema concluem a obra e atribuem nota.
