@@ -64,14 +64,16 @@ Para garantir a qualidade da análise, a base original passou pelo seguinte flux
 ### 📈 Análise Visual
 
 #### 1. Painel Comparativo: Nota Média vs. Volume de Avaliações
-![Nota Média e Volume](mito_do_tijolaco_painel.png)
+<img width="4750" height="1449" alt="mito_do_tijolaco_painel" src="https://github.com/user-attachments/assets/eb856358-9e4a-4020-bb47-30bee2ca4397" />
+
 
 > **Insight:** A nota média apresenta crescimento constante da faixa *Curto* para a faixa *Tijolaço*. Em contrapartida, a mediana de avaliações diminui nas obras mais extensas, confirmando a existência de uma barreira de entrada para o leitor médio.
 
 ---
 
 #### 2. Relação Direta e Dispersão Estatística
-![Relação e Dispersão](relacao_e_dispersao_paginas.png)
+<img width="4750" height="1750" alt="relacao_e_dispersao_paginas" src="https://github.com/user-attachments/assets/46285397-d604-476d-9e97-d5892eea504d" />
+
 
 * **Scatter Plot (Esquerda):** A linha de regressão apresenta inclinação positiva contínua. Entre 600 e 1.200 páginas, a incidência de notas abaixo de 3.5 é praticamente nula.
 * **Boxplot (Direita):** A mediana desloca-se progressivamente para o topo da escala, enquanto o intervalo interquartil (corpo do caixa) torna-se mais compacto em *Tijolaço*, evidenciando alto consenso entre os leitores.
